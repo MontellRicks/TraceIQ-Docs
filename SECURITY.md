@@ -10,4 +10,4 @@
 Never commit real PCAPs, credentials, keys, or customer data.
 
 ## Vulnerability Reporting
-Please open a private GitHub Security Advisory (not a public issue).
+Please open a private GitHub Security Advisory rather than a public issue.
