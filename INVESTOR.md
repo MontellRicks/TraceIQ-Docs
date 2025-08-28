@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![Release](https://img.shields.io/github/v/release/MontellRicks/TraceIQ?label=TraceIQ%20Demo)](https://github.com/MontellRicks/TraceIQ/releases/tag/v0.8.2-demo)
+
 # TraceIQ – Investor Snapshot
 
 🚀 **TraceIQ v0.8.2 Demo**
